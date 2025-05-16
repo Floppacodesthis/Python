@@ -4,6 +4,7 @@ import time
 import keyboard
 
 # GUARANTEED TO WORK ON https://www.agame.com/game/magic-piano-tiles
+# Make sure you put the window in half-view on on the left.
 
 class Bot:
     def click(self, x, y):
